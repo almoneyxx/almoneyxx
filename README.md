@@ -4,5 +4,7 @@
 
 <p align="center">I enjoy exploring how things work, breaking them (ethically) 🫣
 
+<p align="center"> Current Homelab processing..🙃
+
 <p align="center">Feel free to have a look through my projects below! 🫰🏼
 
